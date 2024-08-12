@@ -87,6 +87,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [firebase_with_github_auth.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/firebase_with_github_auth.md)
 
+- [justAtest.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/justAtest.md)
+
 - [login_ui_react.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/login_ui_react.md)
 
 - [printing.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/printing.md)
