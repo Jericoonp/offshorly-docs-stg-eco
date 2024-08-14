@@ -97,6 +97,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [registartion_react.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/registartion_react.md)
 
+- [seleniumPython.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/seleniumPython.md)
+
 - [test.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/test.md)
 
 - [will.md](https://github.com/willoffshorly/offshorly-docs-stg/tree/main/content/Test/will.md)
