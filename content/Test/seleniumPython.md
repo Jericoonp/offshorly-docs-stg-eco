@@ -1,8 +1,6 @@
 # Testing  
 
-This is a sample selenium test script for TestCase - 1808
-
-Edit: Modified for testing purposes only.
+This is a sample selenium test script for TestCase - 1808. Edit: Modified the file for testing purposes only.
 
 ```python
 from selenium import webdriver
